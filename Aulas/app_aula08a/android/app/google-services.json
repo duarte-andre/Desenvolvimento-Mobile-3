@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855758692870",
+    "project_id": "aula-9-listacompra",
+    "storage_bucket": "aula-9-listacompra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855758692870:android:83d41e2f301fe02cf29987",
+        "android_client_info": {
+          "package_name": "com.apa08"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuI63js9hodc24zY9M1ukNrXApTt1mQ98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
