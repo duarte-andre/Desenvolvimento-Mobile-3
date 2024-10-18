@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362474870650",
+    "project_id": "appaula12a",
+    "storage_bucket": "appaula12a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362474870650:android:3b54222fa036fcba50e8c3",
+        "android_client_info": {
+          "package_name": "com.app12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA9Vsx7XJnIc51DIsXYGro7sMLC5zpk-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
